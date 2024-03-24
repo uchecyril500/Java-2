@@ -1,1 +1,1 @@
-# This is the 3rd Javascript Assignment - Switch
+# This is the 4th Javascript Assignment - Guess My Number
