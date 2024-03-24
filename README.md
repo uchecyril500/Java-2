@@ -1,1 +1,1 @@
-# This is the ist Javascript Assignment
+# This is the 2nd Javascript Assignment - Arrays
