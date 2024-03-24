@@ -1,1 +1,1 @@
-# This is the 2nd Javascript Assignment - Arrays
+# This is the 3rd Javascript Assignment - Switch
